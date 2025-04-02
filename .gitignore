@@ -1,0 +1,7 @@
+/screenshots/
+/target/
+/allure-results/
+/.classpath
+/.idea/
+/.project
+/.settings/
